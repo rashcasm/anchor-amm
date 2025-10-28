@@ -1,0 +1,17 @@
+.anchor
+.DS_Store
+target
+**/*.rs.bk
+node_modules
+test-ledger
+.yarn
+
+*wallet.json
+# Ignore all JSON files in this directory
+*\dev-wallet.json
+*\Turbin3-wallet.json
+*\wallet.json
+*\node_modules
+*.log
+*\target
+.env
